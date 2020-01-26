@@ -1,0 +1,16 @@
+I am an IT professional with strong experience in Software Test Manageent/Automation using TOSCA/Selenium, Currently managing a Team of 8 Automation Testers in the Data and Analytics and primarily responsible for Data Cleasing, Data Profiling, Data Mining, Data Processing, Data Accuracy and Data Visualisation.My engagement start at the requirement gathering stage where i have to interact with the business or the Production owner(Business represetative) and help the dev/test team to communicate/translate the business requirement in to technical and detailed requirements.
+
+Once Developer start coding, I use to allocate the task within the testing team and manage few of the critica tasks like coordination within the Dev, Business, preparing Test Strategy and Plans, Educating the team to write Test Cases in BDD format, updating the automation regression pack in the CI/CD pipeline, helping the Business Team in UAT preparion and keep all the stakeholers updated on the Testing progress. He is also playing the role of Defect Manager and produce the Defect Trande report every month to indicate the various root cause of Defects found in the softwares so that the developers can improve on the quality of code.
+
+I have also worked within the project to implement CI/CD pipeline and hold strong knowledge on al the Devops tools like GIT, Jenkin, Ansible, Docker, Kubernatics, Ansible.
+
+I am also a certified Test Manager from ISTQB(International Software Testing Qualification Board) as well as holding ITIL v4 and Devops certification.
+
+Currently working with HSBC and having strong banking knowledge in the area of Investment Banking and Cards
+
+
+
+
+
+
+
